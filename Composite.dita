@@ -11,6 +11,7 @@
     </body>
   </topic>
   <topic id="topic_gbg_l2v_5t">
-    <title>Document title</title>
+    <title><?oxy_delete author="cristibanica" timestamp="20180829T090439+0000" content="Document titlefsfdsfsfs"?><?oxy_insert_start author="cristibanica" timestamp="20180829T090439+0000"?>fdsfdsfsdfdsfdsfdsfdsfsdfdsfdsfdsfdsfdsfds<?oxy_insert_end?></title>
   </topic>
 </dita>
+<?oxy_options track_changes="on"?>

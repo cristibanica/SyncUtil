@@ -1,0 +1,4 @@
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+
+export http_proxy='http://10.0.0.18:3128'
+export https_proxy='https://10.0.0.18:3128'

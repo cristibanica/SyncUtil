@@ -7,7 +7,7 @@ Project URL:       http://intelligence-web.com/free-bootstrap-template-corporate
 
 Version Template:   1.0
 Date:               May 2014
-Licence CC BY-SA 4.0 : http://creativecommons.org/licenses/by-sa/4.0/
+5343434343434343434343465444444444323333333333212121212121
 
 ====== Caractéristiques du template ======
 

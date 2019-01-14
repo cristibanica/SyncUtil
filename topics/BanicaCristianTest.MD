@@ -9,7 +9,7 @@ Version Template:   1.0
 Date:               May 2014
 53434343434343434343434654444444443233333333332121212121214654654564
 
-====== Caractéristiques du template ======
+====== Caractéristiques du template christian banica======
 
 Un menu responsive
 Un bloc services de trois sections en page d’accueil

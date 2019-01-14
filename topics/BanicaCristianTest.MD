@@ -7,7 +7,7 @@ Project URL:       http://intelligence-web.com/free-bootstrap-template-corporate
 
 Version Template:   1.0
 Date:               May 2014
-5343434343434343434343465444444444323333333333212121212121
+53434343434343434343434654444444443233333333332121212121214654654564
 
 ====== Caractéristiques du template ======
 
